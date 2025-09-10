@@ -6,7 +6,7 @@
 ### Черты Диких Эльфов
 
 Героям диких эльфов доступны следующие черты.
-#### Характерная черта: Чары Диких Эльфов (Wode Elf Glamor)
+#### Знаковая черта: Чары Диких Эльфов (Wode Elf Glamor)
 You can magically alter your appearance to better blend in with your surroundings. You gain an edge on tests made to hide and sneak, and tests made to search for you while you are hidden take a bane.
 
 #### Приобретаемые черты Диких Эльфов
@@ -24,7 +24,7 @@ You can magically alter your appearance to better blend in with your surrounding
 Ваша скорость равна 6.
 
 ##### Дикая Природа Защищает (The Wode Defends) (2 Points)
-У вас есть следующая характерная способность. Характерные способности можно использовать по желанию
+У вас есть следующая знаковая способность. Знаковые способности можно использовать по желанию
 
 ```ds-ab
 name: Дикая Природа Защищает, The Wode Defends
