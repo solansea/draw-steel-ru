@@ -1,4 +1,4 @@
-## Fury
+# Fury
 
 You do not temper the heat of battle within you. You unleash it! Your experience in the wild taught you the secrets of predators, and now, like the raptor, the panther, the wolf, you channel unfettered anger into martial prowess. Primordial Chaos is your ally. Let others use finesse to clean up the wreckage left in your wake.
 
@@ -9,7 +9,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 >
 > **Khorva**
 
-### Основы
+## Основы
 
 | Стартовые характеристики                            | Вы начинаете с Сила 2 и Ловкость 2, и вы можете выбрать один из следующих наборов значений ваших других характеристик. <br> 2, -1, -1<br>или 1, 1, -1<br>или 1, 0, 0 |
 | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,28 +20,8 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 | Выносливость, получаемая на 2-м и следующих уровнях | 9                                                                                                                                                                    |
 | Восстановления                                      | 10                                                                                                                                                                   |
 | Навыки                                              | Вы получаете навык Природы. Затем выберите любые два навыка из исследовательских или скрытных навыков. (_Быстрая сборка_: Бдительность, Прыжок, Природа)             |
-### Особенности 1-го уровня
 
-На 1-м уровне Ярости вы получаете следующие особенности.
-#### Первобытный Аспект
-
-Вы — дитя обычаев, что древнее войны, древнее цивилизации, древнее большей части мира. Вы прошли обряд инициации, открывший вам строительные блоки таймскейпа — Первобытный Хаос — и оставивший частицу этого хаоса внутри вас. Выбираете один Первобытный аспект из предложенных ниже; каждый из них даёт вам один Навык. (_Быстрая сборка:_ Берсерк - Berserker.)
-
-- **Берсерк (Berserker):** Вы направляете свою свирепость в физическую Силу, становясь живым воплощением сил, что формируют мир. Вы получаете навык Поднятие тяжестей (Lift).    
-- **Разоритель (Reaver):** Вы направляете свою свирепость в Интуицию и хитрость, бросая вызов порядку цивилизации. Вы получаете навык Прятаться (Hide).    
-- **Буревестник (Stormwight):** Вы направляете свою свирепость в первобытные бури и способны принимать облик зверя или гибридную форму зверя. Вы получаете навык Выслеживание (Track).
-
-Ваш Первобытный аспект — это черта вашего подкласса, и выбор аспекта определяет многие особенности, которые вы получите на новых уровнях.
-
-#### Свирепость
-
-В разгар битвы ваша решимость и ярость нарастают, подпитывая Героический Ресурс под названием **Свирепость**.
-
-> **Где мои Манёвры?**
-> 
-> Поскольку большинство других классов получает уникальный Манёвр, вы можете спросить: «А где особый манёвр для Неистового?» Ответ в том, что классу он просто не нужен, ведь чаще всего воображение рисует образ Неистового, который использует **Манёвр Захват (Grab)** или **Манёвр Отталкивание (Knockback)** в бою. Неистовый действительно великолепно владеет этими манёврами, поэтому нет смысла давать вам ещё один вариант, который вы будете использовать редко или вовсе никогда.
-
-###### Таблица развития Неистового
+### Таблица развития Неистового
 
 | Level | Features                                                                                                                        | Abilities                 | Aspect Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
@@ -56,7 +36,29 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 | 9th   | Harbinger of the Primordial Chaos, Aspect Ability                                                                               | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 | 10th  | Chaos Incarnate, Characteristic Increase, Growing Ferocity Improvement, Perk, Primordial Ferocity, Primordial Power, Skill      | Signature, 3, 5, 7, 9, 11 | 5, 9, 11         |
 
-##### Свирепость в бою
+## Особенности 1-го уровня
+
+На 1-м уровне Ярости вы получаете следующие особенности.
+
+### Первобытный Аспект
+
+Вы — дитя обычаев, что древнее войны, древнее цивилизации, древнее большей части мира. Вы прошли обряд инициации, открывший вам строительные блоки таймскейпа — Первобытный Хаос — и оставивший частицу этого хаоса внутри вас. Выбираете один Первобытный аспект из предложенных ниже; каждый из них даёт вам один Навык. (_Быстрая сборка:_ Берсерк - Berserker.)
+
+- **Берсерк (Berserker):** Вы направляете свою свирепость в физическую Силу, становясь живым воплощением сил, что формируют мир. Вы получаете навык Поднятие тяжестей (Lift).    
+- **Разоритель (Reaver):** Вы направляете свою свирепость в Интуицию и хитрость, бросая вызов порядку цивилизации. Вы получаете навык Прятаться (Hide).    
+- **Буревестник (Stormwight):** Вы направляете свою свирепость в первобытные бури и способны принимать облик зверя или гибридную форму зверя. Вы получаете навык Выслеживание (Track).
+
+Ваш Первобытный аспект — это черта вашего подкласса, и выбор аспекта определяет многие особенности, которые вы получите на новых уровнях.
+
+### Свирепость
+
+В разгар битвы ваша решимость и ярость нарастают, подпитывая Героический Ресурс под названием **Свирепость**.
+
+> **Где мои Манёвры?**
+> 
+> Поскольку большинство других классов получает уникальный Манёвр, вы можете спросить: «А где особый манёвр для Неистового?» Ответ в том, что классу он просто не нужен, ведь чаще всего воображение рисует образ Неистового, который использует **Манёвр Захват (Grab)** или **Манёвр Отталкивание (Knockback)** в бою. Неистовый действительно великолепно владеет этими манёврами, поэтому нет смысла давать вам ещё один вариант, который вы будете использовать редко или вовсе никогда.
+
+#### Свирепость в бою
 
 В начале боевой сцены или иной напряжённой ситуации, ведущейся в раундах боя (по решению Режиссёра), вы получаете количество **Свирепости**, равное числу ваших **Побед**. В начале каждого вашего хода в бою вы получаете **1d3 Свирепости**.
 
@@ -64,19 +66,19 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 Вы теряете всю оставшуюся **Свирепость** в конце сцены.
 
-##### Свирепость вне боя
+#### Свирепость вне боя
 
 Хотя вне боя вы не можете получать **Свирепость**, вы можете использовать свои **Героические способности** и эффекты, требующие Свирепости, не тратя её. Каждый раз, когда вы используете вне боя способность или эффект, который требует Свирепости, вы не можете использовать эту же способность или эффект снова вне боя, пока не получите хотя бы одну **Победу** или не завершите **Отдых**.
 
 Если вы используете вне боя способность, которая позволяет тратить неограниченную Свирепость на эффект (например, _До Последнего Вздоха_ — _To the Uttermost End_), вы используете её так, словно потратили количество Свирепости, равное числу ваших **Побед**.
 
-#### Растущая Свирепость
+### Растущая Свирепость
 
 Вы получаете определённые преимущества в бою в зависимости от того, сколько у вас **Свирепости** (см. Особенности Аспекта 1-го уровня). Эти преимущества длятся до конца вашего хода, даже если в течение хода вы потратите Свирепость и утратите доступ к этим преимуществам.
 
 Некоторые эффекты **Растущей Свирепости** становятся доступны только начиная с определённого уровня; минимальный уровень указан в соответствующих таблицах в этом разделе.
 
-###### Таблица растущей свирепости — Берсерк
+##### Таблица растущей свирепости — Берсерк
 
 | Свирепость        | Преимущество                                                                                                                                                                                                                                                                                  |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -86,7 +88,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 | 8 (4-й уровень)   | Первый раз за ход, когда вы толкаете существо, вы получаете **2 Всплеска**.                                                                                                                                                                                                                   |
 | 10 (7-й уровень)  | Вы получаете **Двойное Преимущество** на проверки **Силы** и при использовании манёвра **Отбрасывание** (Knockback).                                                                                                                                                                          |
 | 12 (10-й уровень) | Каждый раз, когда вы используете **Героическую способность**, вы получаете **10 временной Выносливости**. Кроме того, всякий раз, когда вы совершаете Бросок Мощности, налагающий принудительное перемещение на цель, дистанция перемещения увеличивается на величину, равную вашей **Силе**. |
-###### Таблица pастущей cвирепости — Разоритель
+##### Таблица pастущей cвирепости — Разоритель
 
 | Свирепость        | Преимущество                                                                                                                                                                                                                                                                      |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,46 +98,46 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 | 8 (4-й уровень)   | Первый раз за ход, когда вы сдвигаете существо, вы получаете **2 Рывка**.                                                                                                                                                                                                         |
 | 10 (7-й уровень)  | Вы получаете **Двойное Преимущество** на проверки **Ловкости** и при использовании манёвра **Отбрасывание**.                                                                                                                                                                      |
 | 12 (10-й уровень) | Каждый раз, когда вы используете **Героическую способность**, вы получаете **10 временной Выносливости**. Кроме того, всякий раз, когда вы совершаете Бросок Мощности, налагающий принудительное перемещение, его дистанция увеличивается на величину, равную вашей **Ловкости**. |
-#### Особенности Аспекта 1-го уровня
+### Особенности Аспекта 1-го уровня
 
 Ваш первобытный аспект даёт вам две особенности, как показано в таблице **особенностей Аспекта 1-го уровня**.
 
-###### Таблица особенностей Аспекта 1-го уровня
+##### Таблица особенностей Аспекта 1-го уровня
 
 | Аспект      | Особенность                                                       |
 | ----------- | ----------------------------------------------------------------- |
 | Берсерк     | Комплект (Kit), Первобытная Сила (Primordial Strength)            |
 | Разоритель  | Комплект (Kit), Первобытная Хитрость (Primordial Cunning)         |
 | Буревестник | Облик Зверя (Beast Shape), Неумолимый Охотник (Relentless Hunter) |
-##### Облик Зверя
+#### Облик Зверя
 
 Вы можете использовать и получать преимущества набора **Буревестника** (см. Наборы Буревестника). Ваш набор Буревестника даёт вам ряд преимуществ, включая преимущества, связанные с вашей особенностью **Растущая свирепость**.
 
-##### Комплект
+#### Комплект
 
 Вы можете использовать и получать преимущества **комплекта**. См. Главу 6: Комплекты для получения дополнительной информации. (_Быстрая сборка:_ Пантера - Panther.)
 
-##### Первобытная Хитрость
+#### Первобытная Хитрость
 
 Вы никогда не оказываетесь в состоянии **Захвачен врасплох (Suprised)**. Кроме того, всякий раз, когда вы собираетесь толкнуть цель с помощью принудительного перемещения, вы можете вместо этого **сдвинуть (slide) её**.
 
 По мере роста вашей **Свирепости** вы получаете преимущества, указанные в таблице **Растущей cвирепости — Разоритель**. Преимущества суммируются, за исключением случаев, когда улучшенное преимущество заменяет более слабое.
 
-##### Первобытная Сила
+#### Первобытная Сила
 
 Всякий раз, когда вы наносите урон объекту с помощью **Удара оружием**, удар наносит дополнительный урон, равный вашему показателю **Силы**. Кроме того, всякий раз, когда вы толкаете другое существо в объект, это существо получает дополнительный урон, равный вашему показателю **Силы**.
 
 По мере роста вашей **Свирепости** вы получаете преимущества, указанные в таблице **Растущей свирепости — Берсерк**. Преимущества суммируются, за исключением случаев, когда улучшенное преимущество заменяет более слабое.
 
-##### Неумолимый Охотник
+#### Неумолимый Охотник
 
 Вы получаете **Преимущество** на проверки с использованием навыка **Выслеживание**.
 
-#### Реакция Аспекта (Aspect Triggered Action)
+### Реакция Аспекта (Aspect Triggered Action)
 
 Ваш **Первобытный аспект** даёт вам **Реакцию**, как показано в **таблице реакций аспекта**.
 
-###### Таблица реакций аспекта
+##### Таблица реакций аспекта
 
 | Аспект      | Реакция                                |
 | ----------- | -------------------------------------- |
@@ -143,7 +145,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 | Разоритель  | Неземные Рефлексы (Unearthly Reflexes) |
 | Буревестник | Яростное Преображение (Furious Change) |
 
-###### Яростное Преображение (Furious Change)
+##### Яростное Преображение (Furious Change)
 ```ds-ab
 name: Яростное Преображение (Furious Change)
 flavor: В гневе вы возвращаетесь к более звериной форме.
@@ -157,7 +159,7 @@ effects:
 - Потратить 1 Свирепость: Если вы не умираете, вы можете потратить Восстановление.
 
 ```
-###### Линии Силы (Lines of Force)
+##### Линии Силы (Lines of Force)
 ```ds-ab
 name: Линии Силы (Lines of Force)
 flavor: Вы перенаправляете энергию движения.
@@ -171,7 +173,7 @@ effects:
 - Потратить 1 Свирепость: Дистанция принудительного перемещения увеличивается на величину, равную удвоенному показателю вашей Силы.
 
 ```
-###### Неземные Рефлексы (Unearthly Reflexes)
+##### Неземные Рефлексы (Unearthly Reflexes)
 ```ds-ab
 name: Неземные Рефлексы (Unearthly Reflexes)
 flavor: Вы столь же неуловимы, как колибри.
@@ -186,19 +188,19 @@ effects:
 
 ```
 
-#### Mighty Leaps
+### Mighty Leaps
 
 You can't obtain lower than a tier 2 outcome on any Might test made to jump (see Movement Types in Chapter 10: Combat).
 
-#### Fury Abilities
+### Fury Abilities
 
 You specialize in dealing massive damage on the battlefield, and have mastered unique martial abilities that allow you to strike hard and keep moving.
 
-##### Signature Ability
+#### Signature Ability
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death!)
 
-###### Brutal Slam
+##### Brutal Slam
 
 *The heavy impact of your weapon attacks drives your foes ever back.*
 
@@ -212,7 +214,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 6 + M damage; push 2
 - **17+:** 9 + M damage; push 4
 
-###### Hit and Run
+##### Hit and Run
 
 *Staying in constant motion helps you slip out of reach after a brutal assault.*
 
@@ -228,7 +230,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** You can shift 1 square.
 
-###### Impaled!
+##### Impaled!
 
 *You skewer your enemy like a boar upon a spit.*
 
@@ -242,7 +244,7 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 5 + M damage; M < AVERAGE, grabbed
 - **17+:** 7 + M damage; M < STRONG, grabbed
 
-###### To the Death!
+##### To the Death!
 
 *Your reckless assault leaves you tactically vulnerable.*
 
@@ -258,15 +260,15 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** You gain 2 surges, and the target can make an opportunity attack against you as a free triggered action.
 
-##### Heroic Abilities
+#### Heroic Abilities
 
 You fight with an array of heroic abilities, all of which cost ferocity to fuel them.
 
-###### 3-Ferocity Ability
+##### 3-Ferocity Ability
 
 Choose one heroic ability from the following options, each of which costs 3 ferocity to use. (*Quick Build:* Back!)
 
-###### Back! (3 Ferocity)
+##### Back! (3 Ferocity)
 
 *You hew about you with your mighty weapon, hurling enemies backward.*
 
@@ -280,7 +282,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 - **12-16:** 8 damage; push 1
 - **17+:** 11 damage; push 3
 
-###### Out of the Way! (3 Ferocity)
+##### Out of the Way! (3 Ferocity)
 
 *Your enemies will clear your path—whether they want to or not.*
 
@@ -296,7 +298,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same damage.
 
-###### Tide of Death (3 Ferocity)
+##### Tide of Death (3 Ferocity)
 
 *Teach them the folly of lining up for you.*
 
@@ -314,7 +316,7 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** The last target you damage takes extra damage equal to your Might score for each opportunity attack you trigger during your move.
 
-###### Your Entrails Are Your Extrails! (3 Ferocity)
+##### Your Entrails Are Your Extrails! (3 Ferocity)
 
 *Hard for them to fight when they're busy holding in their giblets.*
 
@@ -330,11 +332,11 @@ Choose one heroic ability from the following options, each of which costs 3 fero
 
 **Effect:** While bleeding this way, the target takes damage equal to your Might score at the end of each of your turns.
 
-###### 5-Ferocity Ability
+##### 5-Ferocity Ability
 
 Choose one heroic ability from the following options, each of which costs 5 ferocity to use. (*Quick Build:* Blood for Blood!)
 
-###### Blood for Blood! (5 Ferocity)
+##### Blood for Blood! (5 Ferocity)
 
 *See how well they fight after you've bled them dry.*
 
@@ -350,7 +352,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** You can deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
-###### Make Peace With Your God! (5 Ferocity)
+##### Make Peace With Your God! (5 Ferocity)
 
 *Anger is your energy.*
 
@@ -360,7 +362,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** You gain 1 surge, and the next ability roll you make this turn automatically obtains a tier 3 outcome.
 
-###### Thunder Roar (5 Ferocity)
+##### Thunder Roar (5 Ferocity)
 
 *You unleash a howl that hurls your enemies back.*
 
@@ -376,7 +378,7 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
-###### To the Uttermost End (5 Ferocity)
+##### To the Uttermost End (5 Ferocity)
 
 *You gut your life force to ensure a foe's demise.*
 
