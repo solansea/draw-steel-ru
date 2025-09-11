@@ -1,7 +1,6 @@
 ---
 tags:
-  - class
-  - translated
+type: class
 ---
 
 
