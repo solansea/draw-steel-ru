@@ -2,22 +2,21 @@
 type: career
 status: Инциденты WIP
 ---
-In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
-
-- In which army and company did you serve?
-- What conflicts were you a part of ?
-- What rank did you achieve?
-- What heroics did you perform in the heat of battle?
+В ваши годы становления вы неустанно сражались в стычках и кампаниях против вражеских сил. При определении вашей карьеры подумайте над следующими вопросами:
+- В какой армии и роте вы служили?
+- В каких конфликтах участвовали?
+- Какое звание вы достигли?
+- Какие подвиги вы совершили в разгар боя?
 
 Вы получаете следующие преимущества карьеры:
 
-**Skills:** One skill from the exploration skill group and one skill from the intrigue group (*Quick Build:* Alertness, Endurance.)
+**Навыки:** Один навык из группы Исследовательских навыков и один навык из группы Скрытных навыков _(Быстрая сборка: Бдительность, Выносливость.)_
 
-**Languages:** Two languages
+**Языки:** Два языка
 
-**Renown:** +1
+**Известность:** +1
 
-**Perk:** One exploration perk (*Quick Build:* Teamwork.)
+**Бонус:** Один исследовательский бонус _(Быстрая сборка: «Командная Работа» - Teamwork.)_
 
 | d6  | Inciting Incident                                                                                                                                                                                                                                                                                                                                                                               |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
