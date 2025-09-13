@@ -2,7 +2,7 @@
 type: perks
 status: ❌
 ---
-#### Arcane Trick
+#### Таинственный Трюк (Arcane Trick)
 
 You have the following ability.
 
@@ -25,13 +25,13 @@ You have the following ability.
 - You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
 
 
-#### Creature Sense
+#### Чувство Существ (Creature Sense)
 
 As a maneuver, choose a creature within 10 squares. If that creature is your level or lower, you learn the keywords in their stat block (Demon, Humanoid, Undead, and so forth).
 
 
 
-#### Familiar
+#### Фамильяр (Familiar)
 
 A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
 
@@ -58,7 +58,7 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 
 
 
-#### Invisible Force
+#### Неидимая Сила (Invisible Force)
 
 You have the following ability.
 
@@ -74,7 +74,7 @@ You have the following ability.
 
 
 
-#### Psychic Whisper
+#### Психический Шёпот (Psychic Whisper)
 
 You have the following ability.
 
@@ -89,12 +89,12 @@ You have the following ability.
 **Effect:** As long as the target understands one or more languages, you send a telepathic message to them that takes 10 seconds or less to speak. The target knows who the message is from and can decide to ignore it and subsequent messages.
 
 
-#### Ritualist
+#### Ритуалист (Ritualist)
 
 You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double edge on the next test they make within the next minute. A target can't use this benefit on an activity that takes longer than 1 minute.
 
 
-#### Thingspeaker
+#### Говорящий с Предметами (Thingspeaker)
 
 When you hold an object in your hand for 1 uninterrupted minute, you can sense whether it bears emotional resonance. Objects with emotional resonance could include treasured gifts, murder weapons, or personal keepsakes. If the Director determines that the object bears emotional resonance, you learn the most dominant emotion associated with the object, then receive a vision that answers one of the following questions:
 
