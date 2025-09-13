@@ -1,7 +1,7 @@
 ---
 type: ancestry
 description: ✅
-lore: ❌
+lore: ✅
 traits: ✅
 ---
 
