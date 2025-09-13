@@ -35,13 +35,19 @@ Whenever a willing ally falls and would land on you or adjacent to you, you can 
 
 #### Шепчущийся с Монстрами (Monster Whisperer)
 
+Вы можете использовать навык Обращение с животными для взаимодействия с неразумными существами, не являющимися животными.
+
 You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.
 
 #### Работай Спиной! (Put Your Back Into It!)
 
+Во время монтажных проверок, когда вы делаете проверку для помощи в проверке и получаете первую ступень, то проверка, которой вы помогали, не получает помеху. Дополнительно, однажды за монтажную проверку, вы можете превратить полученный союзником результат в виде первой ступени во вторую. 
+
 During montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a bane. Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome.
 
 #### Лидер Команды (Team Leader)
+
+В начале групповой проверки или монтажной проверки, вы можете потратить жетон героя. Если вы это делаете, все участники проходят эту проверку так, словно они имеют любой из имеющихся у вас исследовательских навыков.
 
 At the start of a group test or montage test, you can spend a hero token. If you do, all participants make tests as if they also had any skill you have from the exploration group.
 
