@@ -29,6 +29,8 @@ As a maneuver, you grab a willing adjacent ally or object of your size or smalle
 
 #### Я Тебя Держу! (I've Got You!)
 
+Когда согласный союзник падает и должен приземлиться на вас или на соседний квадрат, вы можете безопасно поймать его в качестве свободной реакции. Никто из вас не получает урон от падения.
+
 Whenever a willing ally falls and would land on you or adjacent to you, you can safely catch them as a free triggered action. Neither of you takes damage from the ally's fall.
 
 #### Шепчущийся с Монстрами (Monster Whisperer)
