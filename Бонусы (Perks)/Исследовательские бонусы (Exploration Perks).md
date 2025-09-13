@@ -11,9 +11,13 @@ Whenever you fail a Might test, you can lose Stamina equal to 1d6 + your level t
 
 #### Камуфляжный Охотник (Camouflage Hunter)
 
+Находясь в дикой местности, однажды оказавшись скрытым от существа, вам не нужно укрытие или сокрытие, чтобы оставаться скрытым от этого существа.
+
 Whenever you are in wilderness, once you are hidden from a creature, you don't need cover or concealment to stay hidden from them.
 
 #### Чувство Опасности (Danger Sense)
+
+Когда вы в естественном окружении (но не в поселении в этом окружении), вы получаете Преимущество на проверки с использованием навыка Бдительность и вы не можете быть захвачены врасплох. Дополнительно, у вас есть связь с природой, заранее предупреждающая вас о надвигающемся в течение следующих 72 часов природном катаклизме, но вы не знаете что конкретно произойдёт (землетрясение, лесной пожар и т.п.)  
 
 Whenever you are in a natural environment (but not in a settlement in that environment), you gain an edge on tests made using the Alertness skill, and you can't be surprised. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don't know exactly what it will entail (an earthquake, a wildfire, and so forth).
 
