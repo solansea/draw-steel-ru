@@ -53,8 +53,12 @@ At the start of a group test or montage test, you can spend a hero token. If you
 
 #### Командная Работа (Teamwork)
 
+Во время вашего первого хода во время любой монтажной проверки, вы можете одновременно проходить проверку и помогать в проверке другого героя.
+
 When you take your first turn during any montage test, you can both make a test and assist another hero's test.
 
 #### Древесная Мудрость (Wood Wise)
+
+Когда вы делаете проверку с использованием исследовательского навыка, если хотя бы на одном из кубиков d10 выпала 1, вы можете перебросить один кубик. Вы можете воспользоваться этим бонусом не более одного раза за проверку.   
 
 When you make a test using a skill from the exploration skill group and at least one of the d10s rolled is a 1, you can reroll one d10. You can use this perk only once per test.
