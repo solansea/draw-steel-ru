@@ -5,6 +5,7 @@ status: ❌
 
 #### Мускулистый (Brawny)
 
+Когда вы проваливаете проверку Силы, вы можете потерять Выносливость в количестве равном 1d6 + ваш уровень, чтобы улучшить результат проверки на одну ступень. Вы можете воспользоваться этим бонусом только один раз за проверку.
 Whenever you fail a Might test, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
 
 #### Камуфляжный Охотник (Camouflage Hunter)
