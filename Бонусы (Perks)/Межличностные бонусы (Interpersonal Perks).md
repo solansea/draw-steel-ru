@@ -17,10 +17,14 @@ Whenever a creature watches you sing, dance, or perform a role (as an actor, not
 
 #### Захватывающий Монолог (Engrossing Monologue)
 
+Когда вы не находитесь в битве, вы можете крикнуть, чтобы привлечь внимание существ в пределах 10 квадратов, способного вас услышать. Каждое такое существо, не являющиеся враждебным вам, слушает ваш монолог в течение одной минуты или более, или пока оно не почувствует опасность или неминуемую угрозу. Пока существа слушают вас, все ваши союзники получают преимущество на проверки, проводимые для избегания внимания этих существ.
+
 Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an edge on tests made to avoid being noticed by those creatures.
 
 
 #### Гармонизатор (Harmonizer)
+
+Вы можете провести проверку Присутствия с использованием навыка Музыка, чтобы повлиять на существо, не имеющее эмоций или не понимающее вас. Дополнительно, один за в ходе переговоров, когда союзник приводит доводы, вы можете сыграть музыку, чтобы дать этому союзнику преимущество на его проверку.
 
 You can make a Presence test using the Music skill to influence creatures who don't have emotions or can't understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an edge on their test.
 
