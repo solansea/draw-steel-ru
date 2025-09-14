@@ -4,6 +4,8 @@ status: ❌
 ---
 #### Очаровательный Лжец (Charming Liar)
 
+Если вы проваливаете проверку с использованием навыка Ложь, вы не получаете последствий, связанных с провалом. Дополнительно, во время переговоров, вы можете быть один раз пойманы на лжи без негативных последствий. Когда вы пользуетесь преимуществами этого бонуса, вы не можете заново использовать этот бонус снова, пока не заработаете одну или более побед.  
+
 If you fail a test using the Lie skill, you don't suffer any consequences associated with the failure. Additionally, during a negotiation, you can be caught in one lie without negative consequences. When you use either benefit of this perk, you can't use this perk again until you earn 1 or more Victories.
 
 #### Ослепительный (Dazzler)
