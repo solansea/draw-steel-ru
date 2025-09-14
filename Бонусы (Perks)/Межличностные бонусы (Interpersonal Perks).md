@@ -10,6 +10,8 @@ If you fail a test using the Lie skill, you don't suffer any consequences associ
 
 #### Ослепительный (Dazzler)
 
+Когда существо наблюдает ваше пение, танец или исполнение роли (как актёр, не притворство) непрерывно в течение одной минуты или больше, вы получаете преимущество на любую проверку чтобы оказать влияние на это существо в течение одного часа после окончания перфоманса. 
+
 Whenever a creature watches you sing, dance, or perform a role (as an actor, not just in disguise) for 1 uninterrupted minute or more, you gain an edge on any test made to influence that creature for 1 hour after the performance ends.
 
 
