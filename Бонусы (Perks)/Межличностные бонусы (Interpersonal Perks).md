@@ -52,7 +52,7 @@ When an ally within 5 squares fails a Presence test, you can step in and make a 
 
 #### Силовой Игрок (Power Player)
 
-Когда вы проходите проверку, которая использует навык Хвастовства, Флирта или Угрозы, вы можете использовать Силу заместо любой другой характеристики, которая нужна для проверки.
+Когда вы проходите проверку, которая использует навык Хвастовства, Флирта или Угрозы, вы можете использовать Силу вместо любой другой характеристики, которая нужна для проверки.
 
 Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might instead of any other characteristic the test calls for.
 
