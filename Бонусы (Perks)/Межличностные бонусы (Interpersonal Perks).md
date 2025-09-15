@@ -31,20 +31,28 @@ You can make a Presence test using the Music skill to influence creatures who do
 
 #### Детектор Лжи (Lie Detector)
 
+Когда другое существо сообщает вам информацию, вы можете потратить жетон героя, чтобы определить, содержала ли эта информация намеренную ложь. Если так, то вы знаете, в чём состоит ложь, но не знаете правду.
+
 In response to another creature communicating information to you, you can spend a hero token to determine whether that information contained any knowing lies. If so, you know what the lies are, but not what the truth is.
 
 
 #### Открытая Книга (Open Book)
+
+Когда вы говорите один на один с существом, вы можете задать один вопрос о нём, который обычно оскорбил бы его или вызвал подозрение. Если это существо решит не отвечать честно, оно увильнёт от ответа, не вызывая дальнейших осложнений для вас. Если существо решит ответить честно, оно может немедленно задать вопрос такого же толка о вас, на который вы также должны ответить честно.
 
 Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly.
 
 
 #### Простите Моего Друга (Pardon My Friend)
 
+Когда союзник в пределах пяти квадратов проваливает проверку Присутствия, вы можете вступить и сделать проверку Присутствия с помехой, и ваш результат заменит результат союзника. Этот бонус может быть использован только один раз за проверку, даже если им обладают несколько персонажей.
+
 When an ally within 5 squares fails a Presence test, you can step in and make a Presence test that takes a bane, with your roll replacing the ally's roll. This perk can be used only once per test, even if more than one character has it.
 
 
 #### Силовой Игрок (Power Player)
+
+Когда вы проходите проверку, которая использует навык Хвастовства, Флирта или Угрозы, вы можете использовать Силу заместо любой другой характеристики, которая нужна для проверки.
 
 Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might instead of any other characteristic the test calls for.
 
