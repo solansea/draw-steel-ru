@@ -18,10 +18,13 @@ Whenever you make a test as part of a crafting or research project that uses a s
 
 #### Рукастый (Handy)
 
+Когда вы проходите проверку на изготовление чего-либо и не владеете навыком, применимым к проверке, вы получаете бонус +1 к броску воздействия.
+
 Whenever you make a test to craft something and don't have a skill that applies to the test, you gain a +1 bonus to the power roll.
 
-
 #### Импровизированное Создание (Improvisation Creation)
+
+
 
 Without needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
 
