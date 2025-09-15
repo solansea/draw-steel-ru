@@ -59,9 +59,13 @@ Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you ca
 
 #### Итак, Расскажи-ка... (So Tell Me...)
 
+Когда вы преуспеваете в проверке Присутствия для того, чтобы повлиять на одно или более существ, после завершения проверки вы можете задать вопрос одному из существ, на которое вы повлияли, на который оно должно ответить честно. По усмотрению Режиссёра, существо может ответить на вопрос не полностью или не ответить вовсе, если ответ может подвергнуть опасности его или его близких.
+
 Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.
 
 
 #### Обнаружить Знак (Spot the Tell)
+
+Когда вы проходите проверку на 
 
 Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an edge.
