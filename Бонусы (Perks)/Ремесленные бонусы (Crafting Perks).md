@@ -1,6 +1,6 @@
 ---
 type: perks
-status: ❌
+status: 🚧
 ---
 #### Область Компетенции (Area of Expertise)
 

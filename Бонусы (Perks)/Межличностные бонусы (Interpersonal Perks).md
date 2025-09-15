@@ -1,6 +1,6 @@
 ---
 type: perks
-status: ❌
+status: ✅
 ---
 #### Очаровательный Лжец (Charming Liar)
 
