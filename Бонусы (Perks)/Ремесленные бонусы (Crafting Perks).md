@@ -24,7 +24,7 @@ Whenever you make a test to craft something and don't have a skill that applies 
 
 #### Импровизированное Создание (Improvisation Creation)
 
-
+Без необходимости проходить проверку (и даже без использования инструментов) вы можете быстро смастерить или починить обычный предмет или часть снаряжения, связанное с имеющимся у вас ремесленным навыком. Этот предмет существует один час или до первого использования или активации (определяет Режиссёр), затем ломается без возможности дальнейшего восстановления. Например, если вы владеете навыком Столярного дела, вы можете починить хлипкий деревянный мост, достаточно длинный для того, чтобы группа существ смогла пересечь его или изготовить деревянную лопату, которую можно использовать целый час.
 
 Without needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
 
