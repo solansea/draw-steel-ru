@@ -4,10 +4,14 @@ status: ❌
 ---
 #### Область Компетенции (Area of Expertise)
 
+Выберете один из ремесленных навыков, которым вы уже обладаете. Всякий раз, получая результат 1 ступени на лёгких или средних проверках с использованием этого навыка, он считается как результат 2 ступени. Дополнительно, если вы потратите 1 минуту на изучение объекта, имеющего отношение к данному навыку, вы можете оценить его стоимость и узнать о любых его дефектах.
+
 Choose one skill you already have from the crafting skill group. Whenever you obtain a tier 1 outcome on an easy or medium test using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction.
 
 
 #### Эксперт-Ремесленник (Expert Artisan)
+
+
 
 Whenever you make a test as part of a crafting or research project that uses a skill you already have from the crafting skill group, you can make the power roll twice and use either roll.
 
