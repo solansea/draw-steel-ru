@@ -66,6 +66,6 @@ Whenever you succeed on a Presence test to influence one or more creatures, you 
 
 #### Обнаружить Знак (Spot the Tell)
 
-Когда вы проходите проверку на 
+Когда вы проходите проверку на распознавание личности (?) и получаете результат 3 ступени, вы также замечаете некоторые подсказки, выдающие её истинные чувства. Любая ваша дальнейшая проверка на распознавание этой личности будет иметь преимущество.
 
 Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an edge.
