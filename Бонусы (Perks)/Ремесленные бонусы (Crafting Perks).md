@@ -11,7 +11,7 @@ Choose one skill you already have from the crafting skill group. Whenever you ob
 
 #### Эксперт-Ремесленник (Expert Artisan)
 
-
+Каждый раз, когда вы проходите проверку изготовления или исследовательский проект, которая задействует ремесленный навык, которым вы владеете, вы можете сделать два броска воздействия и выбрать любой из их результатов.
 
 Whenever you make a test as part of a crafting or research project that uses a skill you already have from the crafting skill group, you can make the power roll twice and use either roll.
 
