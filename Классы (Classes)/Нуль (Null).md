@@ -115,7 +115,7 @@ name: Инерционный Щит (Inertial Shield)
 flavor: Вы предугадываете ход атаки и уменьшаете её последствия.
 type: Реакция
 distance: На себя
-target: На себя
+target: Вы сами
 keywords: Псионика
 effects:
 - Trigger: Вы получаете урон.

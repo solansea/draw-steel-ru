@@ -21,7 +21,7 @@ traits: ✅
 name: Слияние с тенью (Shadowmeld)
 flavor: Вы становитесь настоящей тенью.
 type: Основное действие
-target: На себя
+target: Вы сами
 keywords: Магия
 distance: На себя
 effects:
