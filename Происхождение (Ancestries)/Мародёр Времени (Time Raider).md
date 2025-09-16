@@ -46,8 +46,8 @@ traits: ✅
 ```ds-ab
 name: Сотрясающий Удар (Concussive Slam)
 flavor: Вы опускаете невидимую силу на цель.
-keywords: Псионика, Дальнее, Удар
-distance: Дальнее 10
+keywords: Псионика, Дальний бой, Удар
+distance: Дальний бой 10
 target: Одно существо или объект
 type: Основное действие
 effects: 
@@ -60,8 +60,8 @@ effects:
 ```ds-ab
 name: Псионный Луч (Psionic Bolt)
 flavor: Вы выпускаете фиолетовый луч психической силы, двигающий цель
-keywords: Псионика, Дальнее, Удар
-distance: Дальнее 10
+keywords: Псионика, Дальний бой, Удар
+distance: Дальний бой 10
 target: Одно существо или объект
 type: Основное действие
 effects: 
@@ -74,8 +74,8 @@ effects:
 ```ds-ab
 name: Малое Ускорение (Minor Acceleration)
 flavor: Вы наполняете себя или союзника всплеском скорости.
-keywords: Псионика, Ближнее
-distance: Ближнее 1
+keywords: Псионика, Ближний бой
+distance: Ближний бой 1
 target: Одно существо или объект
 type: Манёвр
 effects: 
