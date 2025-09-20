@@ -31,16 +31,26 @@ Without needing to make a test—and even without tools—you can quickly jury-r
 
 #### Вдохновлённый Ремесленник (Inspired Artisan)
 
+Когда вы делаете бросок проекта с использованием ремесленного навыка, вы можете потратить жетон героя чтобы сделать другой бросок проекта как часть того же отдыха. Вы не можете использовать этот бонус больше одного раза за отдых.
+
 When you make a project roll using a skill from the crafting skill group, you can spend a hero token to make another project roll for the same project as part of the same respite activity. You can't use this perk more than once per respite.
 
 
 #### Путешествующий Ремесленник (Traveling Artisan)
 
+В любой день, когда вы не отдыхаете, вы можете потратить 1 ничем не прерываемый час работая над ремесленным проектом с использованием ремесленного навыка, которым вы владеете. Если вы это делаете, вы получаете 1d10 очков для этого проекта.
+
 On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
 
 <!-- -->
 > **Perks and Tests**
->
+
+**Бонусы и проверки**
+
+Существование конкретных бонусов не означает, что герой не может попытаться сделать задачу, связанную с бонусом, не имея этого бонуса. За исключением сверхъестественных бонусов, режиссёр всегда может позволить герою попытаться решить обыденную задачу, упомянутую в навыке, пройдя проверку. Бонусы являются особенными, поскольку позволяют герою попытаться сделать особую задачу без проверки и часто дают даже лучший результат, чем при успешно пройденной проверке (или даже лучше, чем может дать проверка с наградой).
+
+Например, может ли герой поймать падающего союзника, если у него нет бонуса "Я Тебя Держу"? Режиссёр определённо может разрешить это, но может решить, что герой должен преуспеть в проверке Силы, чтобы сделать это, используя основное действие или манёвр, чтобы приготовиться. А вот иметь возможность поймать союзника автоматически за свободную реакцию - это то, что даёт этот бонус!
+
 > The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test—or even a test with a reward would give.
 >
 > For example, can a hero catch a falling ally if they don't have the I've Got You perk? A Director can absolutely allow it, but might decide that the hero needs to succeed on a Might test to accomplish the task, using a main action or maneuver to prepare for it. Being able to catch an ally automatically as a free triggered action is what the perk gets you!
