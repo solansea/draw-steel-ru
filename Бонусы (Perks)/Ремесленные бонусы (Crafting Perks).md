@@ -1,6 +1,7 @@
 ---
 type: perks
 status: 🚧
+dg-publish: true
 ---
 #### Область Компетенции (Area of Expertise)
 

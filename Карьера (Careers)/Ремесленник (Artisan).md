@@ -1,8 +1,9 @@
 ---
 type: career
-description: ✅ 
-benefits: ✅ 
+description: ✅
+benefits: ✅
 incidents: ❌
+dg-publish: true
 ---
 Вы создавали и продавали полезные изделия. Определяя свою карьеру, подумайте над следующими вопросами:
 - Что вы создавали?

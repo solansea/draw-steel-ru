@@ -10,6 +10,7 @@ type: class
 8th lvl:
 9th lvl:
 10th lvl:
+dg-publish: true
 ---
 
 

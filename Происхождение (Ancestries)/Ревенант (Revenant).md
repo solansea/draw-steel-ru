@@ -3,6 +3,7 @@ type: ancestry
 description: ✅
 lore: ❌
 traits: ✅
+dg-publish: true
 ---
 
 Мёртвые ходят среди нас. Кому-то это нравится больше, кому-то меньше.

@@ -1,6 +1,7 @@
 ---
 type: perks
 status: ❌
+dg-publish: true
 ---
 #### Криминальные Связи (Criminal Contacts)
 

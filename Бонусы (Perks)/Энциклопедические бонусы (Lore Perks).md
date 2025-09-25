@@ -1,6 +1,7 @@
 ---
 type: perks
 status: ❌
+dg-publish: true
 ---
 #### Но Я Знаю, Кто Знает (But I Know Who Does)
 

@@ -1,6 +1,7 @@
 ---
 type: perks
 status: ❌
+dg-publish: true
 ---
 #### Таинственный Трюк (Arcane Trick)
 
