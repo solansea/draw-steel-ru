@@ -7,7 +7,7 @@
 
 Перевод терминологии: https://docs.google.com/spreadsheets/d/1tFI1AfLf-3oZkpqkUgtOpYeRb_VgxHoFhFU5PivofXM/edit?gid=410162431#gid=410162431
 
-Как сделать вклад: [[CONTRIBUTE]]
+Как сделать вклад: [CONTRIBUTE](CONTRIBUTE)
 
 ---
 
