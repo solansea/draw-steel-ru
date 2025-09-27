@@ -10,6 +10,8 @@ Whenever you fail a test to recall lore using a skill from the lore skill group,
 
 #### Эйдетическая Память (Eidetic Memory)
 
+Ваш разум подобен энциклопедии, хоть и не самой упорядоченной. Когда вы заканчиваете действие отдыха, выберете один из навыков Знания, которым вы не владеете. Теперь вы владеете этим навыком пока не закончите следующее действие отдыха. Дополнительно, если вы можете потратить одну непрерываемую минуту или более для чтения любой страницы текста, вы можете запомнить её содержание, что позволяет вам запоминать целые книги, хоть это и займёт существенное время.
+
 Your mind is an encyclopedia, though not always an easy one to organize. When you finish a respite, choose one skill from the lore skill group that you don't have. You have that skill until you finish your next respite. Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time.
 
 #### Мудрец-Эксперт (Expert Sage)
