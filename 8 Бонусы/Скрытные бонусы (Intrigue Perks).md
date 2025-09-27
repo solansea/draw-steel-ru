@@ -11,25 +11,35 @@ You have access to a network of criminal contacts. As a respite activity while y
 
 #### Незапоминающееся Лицо (Forgettable Face)
 
+Если вы будете общаться десять или менее минут с существом, которое не встречало вас ранее, вы можете заставить его забыть ваше лицо после этого разговора. Если его попросят описать вас, существо даст невнятное, слишком обыденное и бесполезное описание. Дополнительно, если вы потратите 1 час или больше, накладывая грим, вы автоматически получаете результат 2 ступени на любые проверки, использующие навык Маскировка. Если же вы обладаете навыком Маскировка, вы автоматически получаете результат 3 ступени при таких проверках.
+
 If you spend 10 minutes or less interacting with a creature who hasn't met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any test that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the test.
 
 
 #### Заклинить Механизм (Gum Up the Works)
+
+Когда обыкновенная ловушка активируется в пределах трёх квадратов от вас, вы можете использовать действие реакции, чтобы подвинуться на 3 квадрата к ней. Если это движение заканчивается по соседству с любым из механизмов ловушки, вы можете заклинить её, предотвращая активацию. Пока вы остаётесь по соседству с механизмом, ловушка не сработает, если только попытка обезвредить её не провалится.
 
 Whenever a mundane trap activates within 3 squares, you can use a triggered action to move up to 3 squares toward it. If this movement brings you adjacent to any of the trap's mechanisms, you can jam the trap, preventing it from activating. As long as you stay adjacent to the mechanism, the trap can't go off unless an attempt to disarm it fails.
 
 
 #### Везучий Пёс (Lucky Dog)
 
+Когда вы проваливаете проверку с использованием любого навыка Интриг ,вы можете потерять Выносливость в количестве равном *1d6 + ваш уровень* чтобы улучшить результаты проверки на 1 ступень. Вы можете использовать этот бонус не более одного раза за проверку.
+
 Whenever you fail a test using any skill from the intrigue skill group, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
 
 
 #### Мастер Маскировки (Master of Disguise)
 
+Вы можете нанести или удалить маскировку как часть любой проверки с использование навыка Прятаться или когда вы используете манёвр Спрятаться.
+
 You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.
 
 
 #### Скользкая Привязь (Slipped Lead)
+
+Вы получаете преимущество на проверки для освобождения из уз. Если у вас есть 1 непрерываемая минута, вы можете выскользнуть из любых обыкновенных (немагических) уз без необходимости проходить проверку. Дополнительно, тот факт, что вы выскользнули из пут, не является мгновенно очевидным, пока вы не сделаете это явным (не сбросите их, не используете способность, ранящую одно или более существ и тому подобное) .
 
 You gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it's not immediately obvious when you've escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth).
 
