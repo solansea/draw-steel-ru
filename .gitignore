@@ -1,5 +1,3 @@
 workspace.json
-/Глава 4 Предыстории/Карьеры/Карьеры А - Я/.space/def.json
-/Глава 4 Предыстории/Карьеры А - Я/.space/context.mdb
-/Глава 4 Предыстории/Карьеры А - Я/.space/def.json
-/Глава 4 Предыстории/Карьеры А - Я/.space/context.mdb
+*/.space/**
+/.obsidian/**
