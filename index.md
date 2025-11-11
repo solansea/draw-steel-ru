@@ -7,6 +7,7 @@ title: Draw Steel на русском
 
 [[https://docs.google.com/spreadsheets/d/1tFI1AfLf-3oZkpqkUgtOpYeRb_VgxHoFhFU5PivofXM/edit?gid=410162431#gid=410162431|Глоссарий]] 
 
+Для доступа на Discord сервер можно написать roguelike_bagel.
 
 ---
 
